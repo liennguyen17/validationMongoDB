@@ -1,0 +1,11 @@
+#spring.application.name=demo
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: bpm
+
+server:
+  port: 8088
+
